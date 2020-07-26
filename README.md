@@ -1,2 +1,2 @@
 # Hangman-Game-Python
-Basic Hangman Game GUI using tkinter
+GUI based Hangman Game tkinter
